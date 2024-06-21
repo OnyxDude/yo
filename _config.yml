@@ -2,6 +2,6 @@
 #pages-themes/primer@v0.2.0
 #idk
 #remote_theme: pages-themes/primer@v0.2.0
-theme: jekyll-theme-primer
+theme: jekyll-theme-cayman
 plugins:
 - jekyll-remote-theme
