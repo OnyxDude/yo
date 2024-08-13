@@ -4,7 +4,7 @@
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-primer //probablemente no
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "LeNPaul/Millennial"
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
