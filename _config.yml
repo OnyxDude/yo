@@ -4,7 +4,7 @@
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-primer //probablemente no
 
-remote_theme: "amitmerchant1990/reverie"
+remote_theme: "alshedivat / al-folio "
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
