@@ -3,6 +3,6 @@
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-primer
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: jekyll-theme-primer
 plugins:
 - jekyll-remote-theme
