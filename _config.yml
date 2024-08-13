@@ -3,6 +3,6 @@
 #theme: jekyll-theme-slate //probablemente no
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-primer //probablemente no
-remote_theme: LeNPaul/Millennial
+theme: minimal-mistakes-jekyll
 plugins:
 - jekyll-remote-theme
