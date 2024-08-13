@@ -3,6 +3,6 @@
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-primer
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
 - jekyll-remote-theme
